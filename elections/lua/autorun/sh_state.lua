@@ -1,6 +1,6 @@
 --[[
 
-Copyright 2020 Zozo832 ( https://github.com/Zozo832 )
+Copyright 2021 0x2A ( https://github.com/0x2A-git )
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
